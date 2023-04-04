@@ -1,0 +1,26 @@
+label {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: blue;
+  }
+  input {
+    margin: 20px 0;
+    color: blue;
+    padding: 10px 15px;
+    font-size: 14px;
+  }
+  button {
+    cursor: pointer;
+    margin-top: 20px;
+    padding: 10px 15px;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: white;
+    background: #315efb;
+  }
+  .result {
+    text-transform: uppercase;
+    font-size: 14px;  
+    color: red;
+    margin-top: 20px;
+  }
